@@ -1,0 +1,41 @@
+$date
+  Sat Apr 19 19:29:31 2025
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ d $end
+$scope module circuit $end
+$var reg 1 % a $end
+$var reg 1 & b $end
+$var reg 1 ' c $end
+$var reg 1 ( d $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+1!
+1"
+0#
+0$
+1%
+1&
+0'
+0(
+#1000000
+0!
+1#
+1$
+0%
+1'
+1(
+#2000000

@@ -6,3 +6,12 @@ This repo holds many vhdl code for different applications, and it's main pourpos
 
 for the simulation i'm using ghdl and gtk wave at ubuntu 24.02
 In the future i may put some vhdl projects with real hardware.
+
+My study method has the following steps:
+- Study Digital Circuit themes (ex.: logic gates, multiplexers, etc...)
+- Study VHDL syntax, resources and pratices
+- Implement and test digital circuits learned in VHDL 
+
+Tracking:
+- 19/04/25: [Parity, Parity checker and generator]()
+

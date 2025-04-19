@@ -1,0 +1,7 @@
+v 4
+file . "./logic_circuit.vhdl" "f6cf95a4624c2e9917b9334e59261450ed8639a1" "20250419223648.144":
+  entity logic_circuit at 1( 0) + 0 on 65;
+  architecture logic_circuit of logic_circuit at 15( 156) + 0 on 66;
+file . "./tb.vhdl" "576158c7d80ef64616a344be9ab2917d32d61bc5" "20250419223648.145":
+  entity tb at 2( 1) + 0 on 67;
+  architecture tb of tb at 4( 23) + 0 on 68;

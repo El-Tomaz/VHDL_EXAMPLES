@@ -7,14 +7,15 @@ With this example we are able to learn more about the std_logic type.
 ![](./waveform.png)
 
 The waveform shows that the mux is working correctly. 
-When selection is 00, the output is "00000000". Changing it to 01, 10 and 11, modifies the output to A, B and Highimpedance Respectively.
+When selection is 00, the output is "00000000". Changing it to 01, 10 and 11, modifies the output to A, B and High Impedance Respectively.
 
-to run this example uses:
-`
+to run this example use:
+
+``` bash
 ghdl -a tb.vhdl multiplexer.vhdl
 ghld -r tb --vcd=wave.vcd
 gtkwave wave.vcd
-`
+```
 to visualize the waves, select the signals on gtkwave.
 
 The testbench tests the circuit in this steps:

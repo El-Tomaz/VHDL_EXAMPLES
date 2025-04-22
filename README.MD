@@ -12,6 +12,10 @@ My study method has the following steps:
 - Study VHDL syntax, resources and pratices
 - Implement and test digital circuits learned in VHDL 
 
+All examples have one testbench (as i call, TB). Some TB's will a have asserts for validation, altough my main validating method is inspecting the waveforms in gtkwave.
+
 Tracking:
 - 19/04/25: [Parity, Parity checker and generator]()
+- 20/04/25: Multiplexer
+- 22/04/25: Simple adder
 

@@ -1,7 +1,0 @@
-v 4
-file . "CI7404.vhdl" "fb04da4eacb7996e94f1599ffe24f9399b074539" "20250412203328.219":
-  entity ci7404 at 1( 0) + 0 on 11;
-  architecture ci7404 of ci7404 at 8( 126) + 0 on 12;
-file . "test_bench.vhdl" "ee19b011ec6c20ac16ebbb335c74eb937e78925e" "20250412210929.401":
-  entity tb at 1( 0) + 0 on 27;
-  architecture tb of tb at 3( 19) + 0 on 28;
